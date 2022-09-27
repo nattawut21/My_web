@@ -1,4 +1,4 @@
-#บทความ 
+## บทความ 
 การใช้งาน Angular CLI ตั้งแต่ขั้นตอนการสร้าง Angular Project
 การทดสอบการทำงาน หรือ Run Project Code และการนำ Angular App ที่ได้ไปใช้งาน
 สำหรับเนื้อหาในการติดตั้ง เครื่องมือต่างๆ ในการใช้งาน Angular Project เช่น Visual Studio Code (VSCode)
